@@ -4,7 +4,7 @@
 #
 Name     : pypi-textfsm
 Version  : 1.1.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/9f/53/fa46575d30be6aa591712aa9c44caa7fa9f057f3bb726fe42519a5ae2d8e/textfsm-1.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9f/53/fa46575d30be6aa591712aa9c44caa7fa9f057f3bb726fe42519a5ae2d8e/textfsm-1.1.2.tar.gz
 Summary  : Python module for parsing semi-structured text into python tables.
