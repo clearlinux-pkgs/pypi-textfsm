@@ -1,5 +1,5 @@
 PKG_NAME := pypi-textfsm
-URL = https://files.pythonhosted.org/packages/9f/53/fa46575d30be6aa591712aa9c44caa7fa9f057f3bb726fe42519a5ae2d8e/textfsm-1.1.2.tar.gz
+URL = https://files.pythonhosted.org/packages/b8/bf/c9147d29c5a3ff4c1c876e16ea02f6d4e4f35ba1bcbb2ac80a254924f0aa/textfsm-1.1.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
